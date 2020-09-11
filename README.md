@@ -1,3 +1,3 @@
 # blob-detection
 
-Implement blob detection algorithm and test the program on a variety of stock photos
+Detecting blobs (of various sizes) in images using Laplacian Gaussina filter and non-max suppression 
