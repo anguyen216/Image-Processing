@@ -1,0 +1,28 @@
+This file contains information of the parameter values used to obtain
+corresponding result image when performing blobs detection
+- parameter will be display in the following form and order
+  [initial_sigma, k, num_layers, num_octaves, threshold]
+- file name with corresponding parameters precedes parameters
+
+FILE NAMES - [PARAMETERS]
+butterfly1.jpg - [2, 1.41, 5, 3, 0.0004]
+einstein1.jpg - [2, 1.41, 5, 3, 0.0004]
+fishes1.jpg - [2, 1.41, 5, 3, 0.0004]
+sunflowers1.jpg - [2, 1.41, 5, 3, 0.0004]
+sunflowers2.jpg - [0.7, 1.41, 3, 3, 0.00024]
+butterfly2.jpg - [1.41, 2, 7, 3, 0.00024]
+butterfly3.jpg - [1.41, 1.41, 7, 3, 0.00024]
+einstein2.jpg - [2, 2, 3, 3, 0.00024]
+einstein3.jpg - [0.7, 2, 5, 3, 0.00024]
+bears1.jpg - [1, 2, 3, 3, 0.005]
+bears2.jpg - [0.5, 1.41, 5, 4, 0.005]
+bears3.jpg - [0.7, 1.41, 5, 3, 0.0004]
+hummingbird1.jpg - [1, 1.5, 5, 2, 0.0004]
+hummingbird2.jpg - [2, 1.41, 5, 5, 0.0004]
+hummingbird3.jpg - [0.5, 1.41, 5, 5, 0.0004]
+hummingbird4.jpg - [0.5, 1.41, 7, 3, 0.0004]
+kitten1.jpg - [2, 2, 3, 3, 0.005]
+kitten2.jpg - [0.7, 1.41, 5, 3, 0.005]
+kitten3.jpg - [1, 1.41, 5, 3, 0.0005]
+monsters1.jpg - [2, 1.41, 5, 2, 0.00024]
+monsters2.jpg - [0.7, 1.41, 7, 3, 0.00024]
